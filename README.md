@@ -89,5 +89,7 @@ git push -u origin main
   ![image](https://github.com/user-attachments/assets/4f11abd9-fb84-47d9-9ffb-6e453d034e2d)
 6. 等待部署完成後，Render 自動給你一個 URL（如 https://xxx.onrender.com）
 
+![image](https://github.com/user-attachments/assets/e7b84400-4f98-43a4-96b3-2a3231746167)
+
 
 
